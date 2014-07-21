@@ -1,0 +1,4 @@
+Squallmulator
+=============
+
+Simulator of Squalls
